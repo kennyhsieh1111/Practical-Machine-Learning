@@ -6,4 +6,4 @@ Practical Machine Learning
 2018 Senior Spring, Computer Science Engineering NSYSU
 
 ## Homework
-- Homework 1 : Handcrafted Linear Regression
+- Homework 1 : Boston House Price Regression Practice
