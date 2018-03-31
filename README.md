@@ -7,4 +7,4 @@ Practical Machine Learning
 
 ## Homework
 - Homework 1 : Boston House Price Regression Practice
-- Homework 2 : Stock Price Prediction Regression Practice (add'l. LSTM)
+- Homework 2 : The Stock Price Relationship between Apple Inc. and Foxconn (add'l. LSTM)
