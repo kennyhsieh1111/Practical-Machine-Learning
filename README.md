@@ -7,3 +7,4 @@ Practical Machine Learning
 
 ## Homework
 - Homework 1 : Boston House Price Regression Practice
+- Homework 2 : Stock Price Prediction Regression Practice (add'l. LSTM)
