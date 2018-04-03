@@ -1,6 +1,7 @@
 Practical Machine Learning
 ===
-謝威廷 Kenny Hsieh, B036060017 資管系大四
+謝威廷 Kenny Hsieh, B036060017
+Imformation Management, NSYSU
 
 ## Introduction
 2018 Senior Spring, Computer Science Engineering NSYSU
@@ -12,5 +13,5 @@ Practical Machine Learning
 - Homework 2 : The Stock Price Relationship between Apple Inc. and Foxconn
     - Feature Engineering : Gap Ratio, Return
     - Pipeline Model
-    - Robust Model Construction : Random Forest
+    - Robust Model Construction : Random Forest, (Colab : LSTM)
     - Cross Validation Score Metrics
