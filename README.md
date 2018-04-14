@@ -15,3 +15,4 @@ Imformation Management, NSYSU
     - Pipeline Model
     - Robust Model Construction : Random Forest, (Colab : LSTM)
     - Cross Validation Score Metrics
+- Homework 3 : KDD Cup 1999 : NSL-KDD Network Intrusion Detection
